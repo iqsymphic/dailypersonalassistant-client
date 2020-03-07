@@ -1,6 +1,6 @@
 {
-  "short_name": "TodoList",
-  "name": "TodoList App",
+  "short_name": "List",
+  "name": "daily list",
   "icons": [
     {
       "src": "favicon.ico",

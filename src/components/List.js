@@ -1,9 +1,9 @@
-require("jquery-ui/ui/widgets/sortable");
-
 import React, { Component } from "react";
 import $ from "jquery";
 import ReactDOM from "react-dom";
 import ToDo from "./ToDo";
+
+require("jquery-ui/ui/widgets/sortable");
 
 export default class List extends Component {
   constructor(props) {
